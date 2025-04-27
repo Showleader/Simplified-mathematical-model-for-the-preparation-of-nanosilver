@@ -1,1 +1,1 @@
-Partial differential analysis of temperature concentration, using Mathematica modeling. If you want to ask me, search for Showleader on bilibili. If you want to use this code, please refer to my github homepage.
+Partial differential analysis of temperature concentration, using Mathematica modeling. If you want to ask me, search for Showleader on bilibili. If you want to use this code, please quote my github homepage.
